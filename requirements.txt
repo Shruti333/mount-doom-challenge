@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+redis
+asyncpg
+sqlalchemy
+pydantic
+tenacity
+openai
+python-multipart
